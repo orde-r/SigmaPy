@@ -1,4 +1,4 @@
-from lib.formula import formula
+from src.formula import formula
 
 def main():
     print("Hello from session1!")
