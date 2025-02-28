@@ -1,9 +1,9 @@
-from formula import formula
+from lib.formula import formula
 
 def main():
     print("Hello from session1!")
-    hasil = formula.square(5)
-    print(hasil)
+    h1asil = formula.square(5)
+    print(h1asil)
 
 
 if __name__ == "__main__":
